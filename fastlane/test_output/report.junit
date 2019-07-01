@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='ReferenceiOSUITests.xctest' tests='1' failures='1'>
+  <testsuite name='ReferenceiOSUITests.ReferenceiOSUITests' tests='1' failures='1'>
+    <testcase classname='ReferenceiOSUITests.ReferenceiOSUITests' name='testInitialLayout'>
+      <failure message='XCTAssertTrue failed - Hello!! does not exist!'>ReferenceiOSUITests.swift:107</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
